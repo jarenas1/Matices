@@ -11,6 +11,15 @@ h2, h3 {
     color: #8fa193;
 }
 
+header{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+
+
 .contact-btn{
     border: none;
 }
